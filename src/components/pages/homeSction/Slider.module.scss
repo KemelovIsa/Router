@@ -1,0 +1,21 @@
+.Slider {
+	.content {
+		.img {
+			width: 400px;
+			height: auto;
+			margin: 5px;
+			border-radius: 30px;
+		}
+	}
+}
+
+.cardContainer {
+	display: flex;
+}
+
+h3 {
+	font-family: cursive;
+}
+.circularImg {
+	border-radius: 50%;
+}
